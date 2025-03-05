@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Princevelasco56
 - 👀 I’m interested in Playing Guitar,Football 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript,PHP,Python and More
 - 💞️ I’m looking to collaborate on my unfinish projects
 - 📫 How to reach me Princevelasco56@gmail
 - 😄 Pronouns: he/him
